@@ -1,5 +1,11 @@
 hehehehahahaha
 dusri line jod di 
 ek aur line jod dii ab 
+<<<<<<< HEAD
 hehehahaha
 huhuhuahahah
+=======
+ek aur line ho jaye 
+say no to hehehehahahaha
+say no to huhuhuhhhhuuuu
+>>>>>>> bugfix
